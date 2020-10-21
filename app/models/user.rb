@@ -4,4 +4,5 @@ class User < ApplicationRecord
   validates :password, length: { minimum: 6 }, presence: true
 
   has_many :posts, dependent: :destroy
+  has_many :comments, through: :posts
 end
