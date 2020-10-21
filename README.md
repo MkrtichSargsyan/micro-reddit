@@ -21,9 +21,9 @@ This project is built on the basis of Reddit Functionality where User can have P
 Clone the repo in your local folder where you want to run it<br>
 `git@github.com:MkrtichSargsyan/micro-reddit.git`.<br>
 **Step 2**<br>
-Run 'cd micro-reddit'
+Run 'cd micro-reddit'<br>
 **Step 3**<br>
-Run 'rails server'
+Run 'rails server'<br>
 **Step 4**<br>
 Run 'rails db:migrate'
 
