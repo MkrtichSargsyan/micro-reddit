@@ -48,7 +48,7 @@ Run 'rails db:migrate'
 
 - Github: [@githubhandle](https://github.com/MkrtichSargsyan)
 - Twitter: [@twitterhandle](https://twitter.com/MkrtichSargsyan)
-- Linkedin: [linkedin](https://www.linkedin.com/in/mkrtich-sargsyan-921ab0152/)
+- Linkedin: [linkedin](https://www.linkedin.com/in/mkrtich-sargsyan/)
 - Email: mkrtichsargsyan24@gmail.com
 
 ## 🤝 Contributing
